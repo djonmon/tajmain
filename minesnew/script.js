@@ -170,6 +170,6 @@ highlightButton.addEventListener('click', function(){
         btn.prop('disabled', true);
         setTimeout(function(){
           btn.prop('disabled', false);
-        },5000);
+        },500);
     }
   });
